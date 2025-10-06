@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\kugou\DesktopLrcFrm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\kugou\MainFrm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\kugou\VlcPlayer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\kugou\base64.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\kugou\global.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\kugou\lrcPanel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\kugou\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\kugou\widgets.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\kugou\DesktopLrcFrm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\kugou\MainFrm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\kugou\VlcPlayer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\kugou\base64.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\kugou\global.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\kugou\lrcPanel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\kugou\widgets.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\kugou\res\imgs\0.png">
+      <Filter>res\imgs</Filter>
+    </Image>
+    <Image Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\kugou\res\imgs\1.png">
+      <Filter>res\imgs</Filter>
+    </Image>
+    <Image Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\kugou\res\imgs\2.png">
+      <Filter>res\imgs</Filter>
+    </Image>
+    <Image Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\kugou\res\imgs\3.png">
+      <Filter>res\imgs</Filter>
+    </Image>
+    <Image Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\kugou\res\imgs\defaultBackground.jpg">
+      <Filter>res\imgs</Filter>
+    </Image>
+    <Image Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\kugou\res\imgs\defaultBackground.png">
+      <Filter>res\imgs</Filter>
+    </Image>
+    <Image Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\kugou\res\imgs\del.png">
+      <Filter>res\imgs</Filter>
+    </Image>
+    <Image Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\kugou\res\imgs\down.png">
+      <Filter>res\imgs</Filter>
+    </Image>
+    <Image Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\kugou\res\imgs\headImg.jpg">
+      <Filter>res\imgs</Filter>
+    </Image>
+    <Image Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\kugou\res\imgs\icon.png">
+      <Filter>res\imgs</Filter>
+    </Image>
+    <Image Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\kugou\res\imgs\icon2.png">
+      <Filter>res\imgs</Filter>
+    </Image>
+    <Image Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\kugou\res\imgs\l0.png">
+      <Filter>res\imgs</Filter>
+    </Image>
+    <Image Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\kugou\res\imgs\music.png">
+      <Filter>res\imgs</Filter>
+    </Image>
+    <Image Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\kugou\res\imgs\mvicon.png">
+      <Filter>res\imgs</Filter>
+    </Image>
+    <Image Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\kugou\res\imgs\next.png">
+      <Filter>res\imgs</Filter>
+    </Image>
+    <Image Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\kugou\res\imgs\next_1.png">
+      <Filter>res\imgs</Filter>
+    </Image>
+    <Image Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\kugou\res\imgs\pause.png">
+      <Filter>res\imgs</Filter>
+    </Image>
+    <Image Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\kugou\res\imgs\pause_1.png">
+      <Filter>res\imgs</Filter>
+    </Image>
+    <Image Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\kugou\res\imgs\play.png">
+      <Filter>res\imgs</Filter>
+    </Image>
+    <Image Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\kugou\res\imgs\play_1.png">
+      <Filter>res\imgs</Filter>
+    </Image>
+    <Image Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\kugou\res\imgs\search.png">
+      <Filter>res\imgs</Filter>
+    </Image>
+    <Image Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\kugou\res\imgs\up.png">
+      <Filter>res\imgs</Filter>
+    </Image>
+    <Image Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\kugou\res\imgs\up_1.png">
+      <Filter>res\imgs</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\kugou\res\icon.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\kugou\res\imgs\201792920495388672.gif">
+      <Filter>res\imgs</Filter>
+    </None>
+    <None Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\kugou\res\imgs\gif.gif">
+      <Filter>res\imgs</Filter>
+    </None>
+    <None Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\kugou\res\imgs\gif2.gif">
+      <Filter>res\imgs</Filter>
+    </None>
+    <None Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\kugou\res\imgs\test.gif">
+      <Filter>res\imgs</Filter>
+    </None>
+    <None Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\kugou\res\imgs\xmt.gif">
+      <Filter>res\imgs</Filter>
+    </None>
+    <None Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\kugou\res\xml\bottom.htm">
+      <Filter>res\xml</Filter>
+    </None>
+    <None Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\kugou\res\xml\center.htm">
+      <Filter>res\xml</Filter>
+    </None>
+    <None Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\kugou\res\xml\login.htm">
+      <Filter>res\xml</Filter>
+    </None>
+    <None Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\kugou\res\xml\main.htm">
+      <Filter>res\xml</Filter>
+    </None>
+    <None Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\kugou\res\xml\title.htm">
+      <Filter>res\xml</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\kugou\kugou.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{7F36E836-C959-3663-BF3C-560A8461B225}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{69CE61E2-3E53-3763-83E8-BB01D5D6F881}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="res">
+      <UniqueIdentifier>{4CEAE71F-D75C-3449-B956-0A93A46B3969}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="res\imgs">
+      <UniqueIdentifier>{18F40AB0-E842-3AF7-8241-275054D92AE7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="res\xml">
+      <UniqueIdentifier>{1F2DD8CF-520A-374A-B269-0E8D4842BBC1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

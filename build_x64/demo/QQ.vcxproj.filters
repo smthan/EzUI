@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\QQ\global.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\QQ\loginForm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\QQ\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\QQ\mainForm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\QQ\global.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\QQ\loginForm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\QQ\mainForm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\QQ\res\QQ.png">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\QQ\res\check.png">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\QQ\res\check_1.png">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\QQ\res\close.png">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\QQ\res\down.png">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\QQ\res\email.png">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\QQ\res\gd.png">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\QQ\res\head.png">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\QQ\res\kj.png">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\QQ\res\lxr.png">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\QQ\res\max.png">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\QQ\res\mini.png">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\QQ\res\search.png">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\QQ\res\setting.png">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\QQ\res\xinxi.png">
+      <Filter>res</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\QQ\res\gif2.gif">
+      <Filter>res</Filter>
+    </None>
+    <None Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\QQ\res\loginForm.htm">
+      <Filter>res</Filter>
+    </None>
+    <None Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\QQ\res\mainForm.htm">
+      <Filter>res</Filter>
+    </None>
+    <None Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\QQ\res\session.htm">
+      <Filter>res</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\QQ\QQ.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{7F36E836-C959-3663-BF3C-560A8461B225}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{69CE61E2-3E53-3763-83E8-BB01D5D6F881}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="res">
+      <UniqueIdentifier>{4CEAE71F-D75C-3449-B956-0A93A46B3969}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

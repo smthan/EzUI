@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\ResPackage\FileSystem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\ResPackage\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\ResPackage\mainFrom.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\ResPackage\FileSystem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\ResPackage\mainFrom.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\gCode\github\EzUI2.0\EzUI2.0\demo\ResPackage\main.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{7F36E836-C959-3663-BF3C-560A8461B225}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{69CE61E2-3E53-3763-83E8-BB01D5D6F881}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

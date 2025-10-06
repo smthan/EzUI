@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/gCode/github/EzUI2.0/EzUI2.0/build_x64/cmake_install.cmake",
+		"D:/gCode/github/EzUI2.0/EzUI2.0/build_x64/demo/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
