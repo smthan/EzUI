@@ -4,6 +4,14 @@ LoginForm::LoginForm() :Form(320, 448)
 {
 	umg.LoadXml("res/loginForm.htm");//加载xml里面的控件与样式
 	umg.SetupUI(this);
+
+	TextBox* editUser = (TextBox*)FindControl("user");
+	TextBox* editpwd = (TextBox*)FindControl("pwd");
+	CheckBox* ckbox = (CheckBox*)FindControl("ckbox");
+
+	editUser->SetText("718987717");
+	editpwd->SetText("123456");
+	ckbox->SetCheck(true);
 }
 void LoginForm::OnNotify(Control* sender, EventArgs& args)
 {
